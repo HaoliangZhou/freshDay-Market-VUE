@@ -1,4 +1,5 @@
 ## renren-fast-vue
+# 该前端项目整体使用人人开源的renren-fast-vue项目，其中功能和样式已经按照freshday需求进行了更改
 - renren-fast-vue基于vue、element-ui构建开发，实现[renren-fast](https://gitee.com/renrenio/renren-fast)后台管理前端功能，提供一套更优的前端解决方案
 - 前后端分离，通过token进行数据交互，可独立部署
 - 主题定制，通过scss变量统一一站式定制
